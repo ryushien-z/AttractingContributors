@@ -6,8 +6,12 @@
 - Brown
 - Gold
 - Red
+- black
 - White
 - Black
+- Blue gray
+- Black and gold (two-tone)
+- blonde hair
 
 
 
