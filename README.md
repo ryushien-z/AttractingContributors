@@ -1,5 +1,5 @@
-# Please indicate your favourite places to eat near NAIST.
+# Please indicate the place you haven't been there before.
 
 # List of place
-- mamemame saisai
-- Gusto
+- 
+- 
